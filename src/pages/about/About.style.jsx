@@ -17,4 +17,5 @@ export const MainDark = styled.div`
   background-color: #7a86b6;
   padding: 1rem;
   color: white;
+  height:fit-content;
 `;

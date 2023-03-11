@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Footer from "../components/footer/Footer";
-import Main from "../components/main/Main";
 import Navbar from "../components/navbar/Navbar";
 import { GlobalStyles } from "../components/styles/GlobalStyles";
 import About from "../pages/about/About";
@@ -20,7 +19,7 @@ const AppRouter = () => {
         <Route path="./contact" element={<Contact />} />
       </Routes>
       {/* <Footer /> */}
-      <About />
+    <Services/>
     </BrowserRouter>
   );
 };
