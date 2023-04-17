@@ -1,6 +1,6 @@
 ## Expected Outcome
 
-![Project Website](https://ebru2541.github.io/Website-Page-Design/)
+![Project Website](https://github.com/ebru2541/website-router/blob/master/src/website.gif)
 
 ## Skills
 
@@ -12,4 +12,4 @@
 
 - ReactJS
 
-https://task-tracker-r.netlify.app/
+
